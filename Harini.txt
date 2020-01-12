@@ -1,0 +1,58 @@
+
+// PLAY MUSIC
+
+delay(66572)
+
+delay(413)
+// Trace LED 15-13/16-27/30-28 [826ms]
+delay(826)
+
+delay(696)
+
+delay(1300)
+// Trace LED Last-43 [650ms]
+
+// On LED Last-43
+delay(197)
+// Off LED
+delay(197)
+// On LED Last-43
+delay(197)
+// Off LED
+delay(197)
+
+delay(1377)
+
+delay(299)
+// On LED 1-12/16-27/31-42
+delay(299)
+// Change Color
+delay(299)
+
+delay(1856)
+
+// On LED Last-43
+delay(173)
+// Off TLS LED
+delay(173)
+// On LED Last-43
+delay(173)
+// Off TLS LED
+delay(173)
+// On LED Last-43
+delay(173)
+// Off All LED
+delay(173)
+
+delay(11311)
+
+delay(2541)
+
+delay(642)
+// On LED 1-12/16-27/31-42
+delay(963)
+// Change Colors
+
+delay(1349)
+
+// Off LED

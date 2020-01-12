@@ -1,0 +1,42 @@
+
+// PLAY MUSIC
+
+delay(66572)
+
+delay(1239)
+// Trace LED 28-30/27-16/13-15 [826ms]
+
+// On LED 1-12/16-27/31-60
+delay(174)
+// Off LED
+delay(174)
+// On LED 1-12/16-27/31-60
+delay(174)
+// OFF LED
+delay(174)
+
+delay(1950)
+
+delay(788)
+
+delay(1377)
+
+delay(897)
+
+delay(1856)
+
+delay(1038)
+
+delay(11311)
+
+delay(2541)
+
+delay(1284)
+// On LED 1-12/16-27/31-42
+delay(321)
+// Change Colors
+
+delay(1349)
+
+// On All LED
+// Change Colors and Fade [3970ms]
